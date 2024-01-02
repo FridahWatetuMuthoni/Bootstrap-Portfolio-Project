@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "sass scss:assets/css"
+    "compile:sass": "sass --watch scss:assets/css"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/FridahWatetuMuthoni/Bootstrap-Portfolio-Project#readme",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.5.1",
     "autoprefixer": "^10.4.16",
     "bootstrap": "^5.3.2"
   },
