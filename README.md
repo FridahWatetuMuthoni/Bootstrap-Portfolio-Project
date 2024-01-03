@@ -33,5 +33,3 @@ To compile the sass files just run this
 5. Look at the index.html
 6. Add any Bootstrap 5 Sass variables you want to override into `scss/_custom.scss`by copying them from bootstrap `_variables.scss file` check inside `node_modules/bootstrap/scss/_variables.scss`
 7. enjoy :-).
-
-> 1:57:01

@@ -22,9 +22,10 @@
     right: 5px;
     transform: translateY(-50%);
 
-    .icon {
-      fill: white;
-      margin-top: 10px;
+    i {
+      color: $white;
+      font-size: 1rem;
+      line-height: 2.5rem;
     }
   }
 
